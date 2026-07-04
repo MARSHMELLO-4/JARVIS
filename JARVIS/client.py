@@ -2,7 +2,7 @@ import openai
 from openai.error import RateLimitError
 
 # Set the API key
-openai.api_key = "sk-proj-pdPGNQWGtJcip2lI1EnKT3BlbkFJoGywRFgUeVRwn593eyjR"
+openai.api_key = ""
 
 try:
     # Generate a chat completion
